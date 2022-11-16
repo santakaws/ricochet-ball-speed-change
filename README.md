@@ -1,2 +1,2 @@
 # ricochet-ball-speed-change
-A demonstration of collision detection/handline and augmenting speed values
+A demonstration of collision detection/handling and augmenting speed values
