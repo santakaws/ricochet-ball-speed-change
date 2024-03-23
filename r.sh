@@ -1,12 +1,3 @@
-/*
-Brennon Hahs
-The string: “Midterm #2”
-Today’s date: November 8, 2021
-course number: CPSC 223N-1
-
-
-*/
-
 echo First remove old binary files
 rm *.dll
 rm *.exe
